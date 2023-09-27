@@ -1,5 +1,5 @@
 <p align=center>
-<a href="https://github.com/nichihachi/"><img align="center" src="https://cdn.discordapp.com/attachments/1079180981971472394/1156376204950110208/NichiHachi.gif?ex=6514bec3&is=65136d43&hm=acb3eea21ee1da1fb909cb2a19c0578571b639c6d5f96123a618715ba2da61a1&loop" alt="Nichi Hachi" /></a>
+<a href="https://github.com/nichihachi/"><img align="center" src="https://media.discordapp.net/attachments/1079180981971472394/1156382666015395982/NichiHachi.gif?ex=6514c4c8&is=65137348&hm=2d134a62335f00d23e0a40f0d2338b2421e22cbdb5aa3bd135df79ee23f40900&" alt="Nichi Hachi" style="width: 900px; height: auto;"/></a>
 </p>
 
 - 🦁 I'm a student at Polytech Lyon.
