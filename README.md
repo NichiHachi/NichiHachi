@@ -1,7 +1,3 @@
-<p align=center>
-<a href="https://github.com/nichihachi/"><img align="center" src="https://media.discordapp.net/attachments/1079180981971472394/1156382666015395982/NichiHachi.gif?ex=6514c4c8&is=65137348&hm=2d134a62335f00d23e0a40f0d2338b2421e22cbdb5aa3bd135df79ee23f40900&" alt="Nichi Hachi" style="width: 900px; height: auto;"/></a>
-</p>
-
 - 🦁 I'm a student at Polytech Lyon.
 - 📅 19 years old.
 - ❤️ c++ enjoyer !
