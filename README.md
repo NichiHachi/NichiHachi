@@ -1,3 +1,5 @@
+<img height=100% src="./HelloWorld.png" />
+
 ## My stats (only for nerds)
 <div>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nichihachi&show_icons=true&theme=transparent" />
