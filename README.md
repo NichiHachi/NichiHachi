@@ -15,7 +15,7 @@
 
 
 ## My stats (only for nerds)
-[![wakatime](https://wakatime.com/badge/user/018c0c36-8426-4a2e-aac8-8448135e9ded.svg)](https://wakatime.com/@018c0c36-8426-4a2e-aac8-8448135e9ded)
+[![wakatime](https://wakatime.com/badge/user/018c0c36-8426-4a2e-aac8-8448135e9ded.svg?style=for-the-badge&labelColor=blueviolet)](https://wakatime.com/@018c0c36-8426-4a2e-aac8-8448135e9ded)
 <div>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nichihachi&show_icons=true&theme=transparent" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nichihachi&layout=compact&langs_count=8&theme=transparent" />
