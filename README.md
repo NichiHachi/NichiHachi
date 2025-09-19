@@ -1,5 +1,4 @@
 <div style="display: flex; align-items: flex-start;">
-  <img style="margin-left: 10px; width: 400px;" src="./HelloWorld.png" alt="Silly guy :>" />
     <div style="display: flex; flex-direction: row;">
     <a href="https://www.twitch.tv/nichi_hachi" target="_blank">
       <img width="50px" src="https://img.icons8.com/?size=100&id=oRv985gg84Rj&format=png&color=000000" alt="Twitch" />
